@@ -1,2 +1,2 @@
 # prime-number-in-python
-define a number to it is primeor not
+If you have written code that specifies prime numbers, please add it here
